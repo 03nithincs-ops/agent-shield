@@ -1,0 +1,201 @@
+payment_id,customer_id,amount,currency,payment_type,recipient,status,initiated_by,created_at
+PAY-00001,CUST-0066,5368.32,USD,ach_simulation,Meridian Cloud Services,pending,seed_system,2026-11-13T04:51:27.381581+00:00
+PAY-00002,CUST-0012,1451.7,USD,ach_simulation,Summit Logistics LLC,settled,seed_system,2026-11-24T04:51:27.381581+00:00
+PAY-00003,CUST-0080,5502.83,USD,wire_simulation,Summit Logistics LLC,settled,seed_system,2026-05-29T14:51:27.381581+00:00
+PAY-00004,CUST-0070,1445.38,USD,card_settlement,Harborview Health Group,settled,seed_system,2026-07-10T02:51:27.381581+00:00
+PAY-00005,CUST-0030,4574.04,USD,wire_simulation,Northstar Utilities Co.,settled,seed_system,2026-11-17T13:51:27.381581+00:00
+PAY-00006,CUST-0053,3294.97,USD,ach_simulation,Harborview Health Group,reversed,seed_system,2026-10-11T08:51:27.381581+00:00
+PAY-00007,CUST-0031,1419.89,USD,card_settlement,Redwood Office Supply,settled,seed_system,2026-08-15T05:51:27.381581+00:00
+PAY-00008,CUST-0083,5581.03,USD,wire_simulation,Northstar Utilities Co.,settled,seed_system,2026-08-29T11:51:27.381581+00:00
+PAY-00009,CUST-0096,6405.66,USD,card_settlement,Harborview Health Group,settled,seed_system,2026-06-03T03:51:27.381581+00:00
+PAY-00010,CUST-0023,4219.94,USD,ach_simulation,Meridian Cloud Services,settled,seed_system,2026-08-20T11:51:27.381581+00:00
+PAY-00011,CUST-0090,4245.71,USD,wire_simulation,BluePeak Telecom,reversed,seed_system,2026-08-30T21:51:27.381581+00:00
+PAY-00012,CUST-0046,730.3,USD,ach_simulation,BluePeak Telecom,settled,seed_system,2026-09-26T10:51:27.381581+00:00
+PAY-00013,CUST-0049,7463.25,USD,bill_pay,Redwood Office Supply,reversed,seed_system,2026-06-03T19:51:27.381581+00:00
+PAY-00014,CUST-0023,2625.78,USD,ach_simulation,Northstar Utilities Co.,settled,seed_system,2026-10-11T15:51:27.381581+00:00
+PAY-00015,CUST-0059,5024.47,USD,card_settlement,BluePeak Telecom,pending,seed_system,2026-10-15T18:51:27.381581+00:00
+PAY-00016,CUST-0065,7930.04,USD,wire_simulation,Northstar Utilities Co.,settled,seed_system,2026-10-24T13:51:27.381581+00:00
+PAY-00017,CUST-0079,4495.2,USD,card_settlement,Harborview Health Group,settled,seed_system,2026-11-19T23:51:27.381581+00:00
+PAY-00018,CUST-0078,2529.27,USD,card_settlement,Harborview Health Group,settled,seed_system,2026-08-03T19:51:27.381581+00:00
+PAY-00019,CUST-0016,840.58,USD,bill_pay,Harborview Health Group,settled,seed_system,2026-08-19T05:51:27.381581+00:00
+PAY-00020,CUST-0057,6545.03,USD,bill_pay,Summit Logistics LLC,pending,seed_system,2026-06-19T00:51:27.381581+00:00
+PAY-00021,CUST-0061,2537.36,USD,bill_pay,Meridian Cloud Services,settled,seed_system,2026-06-21T20:51:27.381581+00:00
+PAY-00022,CUST-0004,1758.79,USD,bill_pay,BluePeak Telecom,pending,seed_system,2026-09-28T15:51:27.381581+00:00
+PAY-00023,CUST-0086,2783.03,USD,ach_simulation,Meridian Cloud Services,pending,seed_system,2026-10-23T18:51:27.381581+00:00
+PAY-00024,CUST-0043,5487.47,USD,wire_simulation,Meridian Cloud Services,reversed,seed_system,2026-07-08T04:51:27.381581+00:00
+PAY-00025,CUST-0070,4586.45,USD,wire_simulation,BluePeak Telecom,settled,seed_system,2026-08-28T23:51:27.381581+00:00
+PAY-00026,CUST-0032,1513.44,USD,bill_pay,Northstar Utilities Co.,reversed,seed_system,2026-10-06T04:51:27.381581+00:00
+PAY-00027,CUST-0022,7209.48,USD,card_settlement,Harborview Health Group,pending,seed_system,2026-06-15T22:51:27.381581+00:00
+PAY-00028,CUST-0088,526.5,USD,bill_pay,BluePeak Telecom,settled,seed_system,2026-06-25T21:51:27.381581+00:00
+PAY-00029,CUST-0044,4786.01,USD,wire_simulation,Meridian Cloud Services,reversed,seed_system,2026-07-18T04:51:27.381581+00:00
+PAY-00030,CUST-0086,7068.27,USD,bill_pay,Summit Logistics LLC,pending,seed_system,2026-07-14T06:51:27.381581+00:00
+PAY-00031,CUST-0002,3595.34,USD,wire_simulation,Harborview Health Group,reversed,seed_system,2026-08-24T06:51:27.381581+00:00
+PAY-00032,CUST-0072,4979.51,USD,bill_pay,BluePeak Telecom,settled,seed_system,2026-10-29T06:51:27.381581+00:00
+PAY-00033,CUST-0028,1506.61,USD,wire_simulation,Harborview Health Group,settled,seed_system,2026-08-05T21:51:27.381581+00:00
+PAY-00034,CUST-0025,3194.6,USD,ach_simulation,Northstar Utilities Co.,settled,seed_system,2026-10-01T01:51:27.381581+00:00
+PAY-00035,CUST-0016,3901.17,USD,bill_pay,BluePeak Telecom,reversed,seed_system,2026-06-18T10:51:27.381581+00:00
+PAY-00036,CUST-0054,2016.68,USD,bill_pay,Northstar Utilities Co.,settled,seed_system,2026-11-09T03:51:27.381581+00:00
+PAY-00037,CUST-0085,1302.02,USD,wire_simulation,Northstar Utilities Co.,settled,seed_system,2026-10-07T20:51:27.381581+00:00
+PAY-00038,CUST-0063,2913.99,USD,card_settlement,Northstar Utilities Co.,settled,seed_system,2026-08-29T06:51:27.381581+00:00
+PAY-00039,CUST-0020,3782.48,USD,ach_simulation,Redwood Office Supply,pending,seed_system,2026-10-23T11:51:27.381581+00:00
+PAY-00040,CUST-0003,5836.75,USD,wire_simulation,Northstar Utilities Co.,pending,seed_system,2026-07-21T12:51:27.381581+00:00
+PAY-00041,CUST-0058,4055.49,USD,ach_simulation,Northstar Utilities Co.,pending,seed_system,2026-10-10T00:51:27.381581+00:00
+PAY-00042,CUST-0082,607.13,USD,card_settlement,Harborview Health Group,settled,seed_system,2026-08-28T08:51:27.381581+00:00
+PAY-00043,CUST-0002,7284.31,USD,bill_pay,Summit Logistics LLC,pending,seed_system,2026-10-29T15:51:27.381581+00:00
+PAY-00044,CUST-0029,3117.48,USD,ach_simulation,Harborview Health Group,settled,seed_system,2026-06-30T18:51:27.381581+00:00
+PAY-00045,CUST-0034,2729.89,USD,bill_pay,Meridian Cloud Services,reversed,seed_system,2026-07-14T08:51:27.381581+00:00
+PAY-00046,CUST-0068,3576.54,USD,ach_simulation,Redwood Office Supply,reversed,seed_system,2026-09-21T21:51:27.381581+00:00
+PAY-00047,CUST-0059,2483.91,USD,bill_pay,Meridian Cloud Services,reversed,seed_system,2026-08-04T08:51:27.381581+00:00
+PAY-00048,CUST-0046,6930.17,USD,bill_pay,Summit Logistics LLC,settled,seed_system,2026-10-27T18:51:27.381581+00:00
+PAY-00049,CUST-0032,41.41,USD,card_settlement,Redwood Office Supply,reversed,seed_system,2026-08-30T15:51:27.381581+00:00
+PAY-00050,CUST-0041,6194.84,USD,ach_simulation,BluePeak Telecom,settled,seed_system,2026-08-13T17:51:27.381581+00:00
+PAY-00051,CUST-0055,5213.98,USD,wire_simulation,BluePeak Telecom,settled,seed_system,2026-08-22T00:51:27.381581+00:00
+PAY-00052,CUST-0097,5786.48,USD,bill_pay,Redwood Office Supply,pending,seed_system,2026-08-26T13:51:27.381581+00:00
+PAY-00053,CUST-0098,3043.98,USD,bill_pay,Summit Logistics LLC,pending,seed_system,2026-11-23T02:51:27.381581+00:00
+PAY-00054,CUST-0053,3974.16,USD,ach_simulation,BluePeak Telecom,settled,seed_system,2026-07-09T20:51:27.381581+00:00
+PAY-00055,CUST-0007,1009.42,USD,bill_pay,Harborview Health Group,settled,seed_system,2026-08-19T04:51:27.381581+00:00
+PAY-00056,CUST-0091,2206.16,USD,card_settlement,Meridian Cloud Services,settled,seed_system,2026-11-06T06:51:27.381581+00:00
+PAY-00057,CUST-0023,446.44,USD,bill_pay,Redwood Office Supply,reversed,seed_system,2026-08-01T10:51:27.381581+00:00
+PAY-00058,CUST-0087,5216.17,USD,ach_simulation,Summit Logistics LLC,settled,seed_system,2026-10-29T00:51:27.381581+00:00
+PAY-00059,CUST-0030,1012.74,USD,ach_simulation,Northstar Utilities Co.,settled,seed_system,2026-06-27T14:51:27.381581+00:00
+PAY-00060,CUST-0093,3314.53,USD,card_settlement,Harborview Health Group,reversed,seed_system,2026-11-19T04:51:27.381581+00:00
+PAY-00061,CUST-0053,7841.15,USD,wire_simulation,Meridian Cloud Services,settled,seed_system,2026-08-11T04:51:27.381581+00:00
+PAY-00062,CUST-0020,2291.92,USD,card_settlement,Redwood Office Supply,pending,seed_system,2026-11-13T11:51:27.381581+00:00
+PAY-00063,CUST-0059,8208.99,USD,wire_simulation,Harborview Health Group,pending,seed_system,2026-06-15T17:51:27.381581+00:00
+PAY-00064,CUST-0019,6672.99,USD,bill_pay,Northstar Utilities Co.,settled,seed_system,2026-08-07T07:51:27.381581+00:00
+PAY-00065,CUST-0035,8189.44,USD,wire_simulation,Redwood Office Supply,reversed,seed_system,2026-10-18T07:51:27.381581+00:00
+PAY-00066,CUST-0042,1374.46,USD,bill_pay,Northstar Utilities Co.,settled,seed_system,2026-10-06T23:51:27.381581+00:00
+PAY-00067,CUST-0050,678.08,USD,wire_simulation,Northstar Utilities Co.,settled,seed_system,2026-08-23T19:51:27.381581+00:00
+PAY-00068,CUST-0086,810.75,USD,card_settlement,Meridian Cloud Services,settled,seed_system,2026-09-21T11:51:27.381581+00:00
+PAY-00069,CUST-0039,4593.52,USD,ach_simulation,Redwood Office Supply,settled,seed_system,2026-06-02T06:51:27.381581+00:00
+PAY-00070,CUST-0060,4756.04,USD,card_settlement,Meridian Cloud Services,settled,seed_system,2026-10-06T20:51:27.381581+00:00
+PAY-00071,CUST-0033,5814.47,USD,wire_simulation,Summit Logistics LLC,reversed,seed_system,2026-06-12T22:51:27.381581+00:00
+PAY-00072,CUST-0047,1644.24,USD,card_settlement,Summit Logistics LLC,pending,seed_system,2026-11-08T17:51:27.381581+00:00
+PAY-00073,CUST-0077,1171.66,USD,bill_pay,Redwood Office Supply,settled,seed_system,2026-07-06T02:51:27.381581+00:00
+PAY-00074,CUST-0029,6116.78,USD,wire_simulation,BluePeak Telecom,settled,seed_system,2026-09-08T09:51:27.381581+00:00
+PAY-00075,CUST-0035,3875.05,USD,ach_simulation,Meridian Cloud Services,settled,seed_system,2026-10-25T05:51:27.381581+00:00
+PAY-00076,CUST-0087,6992.37,USD,ach_simulation,Harborview Health Group,settled,seed_system,2026-09-14T04:51:27.381581+00:00
+PAY-00077,CUST-0017,8257.57,USD,ach_simulation,Northstar Utilities Co.,settled,seed_system,2026-08-06T11:51:27.381581+00:00
+PAY-00078,CUST-0026,5569.05,USD,ach_simulation,Northstar Utilities Co.,settled,seed_system,2026-10-05T13:51:27.381581+00:00
+PAY-00079,CUST-0081,7150.84,USD,ach_simulation,Summit Logistics LLC,pending,seed_system,2026-07-15T00:51:27.381581+00:00
+PAY-00080,CUST-0088,2858.62,USD,card_settlement,Northstar Utilities Co.,settled,seed_system,2026-06-04T19:51:27.381581+00:00
+PAY-00081,CUST-0092,4197.28,USD,wire_simulation,BluePeak Telecom,pending,seed_system,2026-11-09T17:51:27.381581+00:00
+PAY-00082,CUST-0084,2925.6,USD,bill_pay,Meridian Cloud Services,reversed,seed_system,2026-09-20T20:51:27.381581+00:00
+PAY-00083,CUST-0082,4472.59,USD,wire_simulation,Redwood Office Supply,settled,seed_system,2026-06-15T17:51:27.381581+00:00
+PAY-00084,CUST-0098,6696.51,USD,wire_simulation,Harborview Health Group,settled,seed_system,2026-06-13T18:51:27.381581+00:00
+PAY-00085,CUST-0006,4028.69,USD,wire_simulation,Harborview Health Group,settled,seed_system,2026-06-13T02:51:27.381581+00:00
+PAY-00086,CUST-0016,2264.22,USD,card_settlement,Harborview Health Group,settled,seed_system,2026-06-13T07:51:27.381581+00:00
+PAY-00087,CUST-0036,8383.11,USD,wire_simulation,BluePeak Telecom,settled,seed_system,2026-10-25T12:51:27.381581+00:00
+PAY-00088,CUST-0095,8252.62,USD,wire_simulation,Summit Logistics LLC,settled,seed_system,2026-08-16T17:51:27.381581+00:00
+PAY-00089,CUST-0017,6928.21,USD,bill_pay,Meridian Cloud Services,settled,seed_system,2026-08-07T04:51:27.381581+00:00
+PAY-00090,CUST-0055,6984.25,USD,wire_simulation,Meridian Cloud Services,settled,seed_system,2026-08-16T01:51:27.381581+00:00
+PAY-00091,CUST-0048,7433.4,USD,wire_simulation,Summit Logistics LLC,settled,seed_system,2026-09-24T14:51:27.381581+00:00
+PAY-00092,CUST-0095,7254.94,USD,bill_pay,Redwood Office Supply,settled,seed_system,2026-10-06T14:51:27.381581+00:00
+PAY-00093,CUST-0035,1606.68,USD,wire_simulation,Meridian Cloud Services,settled,seed_system,2026-09-29T04:51:27.381581+00:00
+PAY-00094,CUST-0080,3468.0,USD,wire_simulation,Northstar Utilities Co.,settled,seed_system,2026-09-11T15:51:27.381581+00:00
+PAY-00095,CUST-0012,5371.02,USD,bill_pay,Harborview Health Group,settled,seed_system,2026-05-31T11:51:27.381581+00:00
+PAY-00096,CUST-0098,3309.8,USD,wire_simulation,BluePeak Telecom,settled,seed_system,2026-08-10T11:51:27.381581+00:00
+PAY-00097,CUST-0016,5949.06,USD,bill_pay,Northstar Utilities Co.,settled,seed_system,2026-07-15T09:51:27.381581+00:00
+PAY-00098,CUST-0032,8062.71,USD,bill_pay,Meridian Cloud Services,settled,seed_system,2026-06-20T16:51:27.381581+00:00
+PAY-00099,CUST-0035,139.62,USD,bill_pay,Meridian Cloud Services,reversed,seed_system,2026-09-15T22:51:27.381581+00:00
+PAY-00100,CUST-0036,3921.84,USD,ach_simulation,Redwood Office Supply,settled,seed_system,2026-09-18T05:51:27.381581+00:00
+PAY-00101,CUST-0051,91.96,USD,wire_simulation,Northstar Utilities Co.,reversed,seed_system,2026-08-23T01:51:27.381581+00:00
+PAY-00102,CUST-0097,4759.11,USD,ach_simulation,BluePeak Telecom,reversed,seed_system,2026-11-25T11:51:27.381581+00:00
+PAY-00103,CUST-0008,7516.07,USD,ach_simulation,BluePeak Telecom,settled,seed_system,2026-06-16T09:51:27.381581+00:00
+PAY-00104,CUST-0003,203.29,USD,ach_simulation,Northstar Utilities Co.,reversed,seed_system,2026-10-28T23:51:27.381581+00:00
+PAY-00105,CUST-0099,456.15,USD,card_settlement,Harborview Health Group,settled,seed_system,2026-09-30T12:51:27.381581+00:00
+PAY-00106,CUST-0048,3863.98,USD,card_settlement,Northstar Utilities Co.,settled,seed_system,2026-07-13T21:51:27.381581+00:00
+PAY-00107,CUST-0062,3829.27,USD,ach_simulation,Harborview Health Group,pending,seed_system,2026-11-06T10:51:27.381581+00:00
+PAY-00108,CUST-0040,3421.0,USD,bill_pay,Northstar Utilities Co.,settled,seed_system,2026-11-24T08:51:27.381581+00:00
+PAY-00109,CUST-0004,2104.15,USD,card_settlement,Northstar Utilities Co.,settled,seed_system,2026-09-08T13:51:27.381581+00:00
+PAY-00110,CUST-0081,1772.28,USD,ach_simulation,Summit Logistics LLC,settled,seed_system,2026-08-18T07:51:27.381581+00:00
+PAY-00111,CUST-0097,3780.35,USD,ach_simulation,Harborview Health Group,pending,seed_system,2026-10-31T03:51:27.381581+00:00
+PAY-00112,CUST-0045,1535.97,USD,card_settlement,Northstar Utilities Co.,settled,seed_system,2026-10-21T00:51:27.381581+00:00
+PAY-00113,CUST-0057,383.08,USD,ach_simulation,Meridian Cloud Services,reversed,seed_system,2026-08-01T22:51:27.381581+00:00
+PAY-00114,CUST-0003,7360.17,USD,wire_simulation,Redwood Office Supply,settled,seed_system,2026-06-28T15:51:27.381581+00:00
+PAY-00115,CUST-0080,1461.96,USD,ach_simulation,BluePeak Telecom,settled,seed_system,2026-10-05T22:51:27.381581+00:00
+PAY-00116,CUST-0008,7141.8,USD,wire_simulation,BluePeak Telecom,settled,seed_system,2026-07-17T00:51:27.381581+00:00
+PAY-00117,CUST-0016,3142.16,USD,ach_simulation,Meridian Cloud Services,reversed,seed_system,2026-06-25T18:51:27.381581+00:00
+PAY-00118,CUST-0014,7779.59,USD,wire_simulation,Northstar Utilities Co.,pending,seed_system,2026-07-28T03:51:27.381581+00:00
+PAY-00119,CUST-0041,2226.68,USD,bill_pay,Northstar Utilities Co.,pending,seed_system,2026-08-16T06:51:27.381581+00:00
+PAY-00120,CUST-0043,841.97,USD,wire_simulation,Harborview Health Group,reversed,seed_system,2026-10-19T03:51:27.381581+00:00
+PAY-00121,CUST-0075,3956.02,USD,bill_pay,Redwood Office Supply,settled,seed_system,2026-10-21T05:51:27.381581+00:00
+PAY-00122,CUST-0016,3882.73,USD,card_settlement,Harborview Health Group,settled,seed_system,2026-09-28T14:51:27.381581+00:00
+PAY-00123,CUST-0053,3377.43,USD,card_settlement,Redwood Office Supply,settled,seed_system,2026-07-02T13:51:27.381581+00:00
+PAY-00124,CUST-0085,7302.1,USD,card_settlement,Northstar Utilities Co.,reversed,seed_system,2026-10-21T15:51:27.381581+00:00
+PAY-00125,CUST-0093,2653.3,USD,card_settlement,Northstar Utilities Co.,settled,seed_system,2026-10-22T01:51:27.381581+00:00
+PAY-00126,CUST-0021,4445.23,USD,wire_simulation,BluePeak Telecom,settled,seed_system,2026-06-03T18:51:27.381581+00:00
+PAY-00127,CUST-0082,5950.88,USD,ach_simulation,Harborview Health Group,settled,seed_system,2026-06-13T10:51:27.381581+00:00
+PAY-00128,CUST-0070,8379.16,USD,wire_simulation,Northstar Utilities Co.,settled,seed_system,2026-10-25T03:51:27.381581+00:00
+PAY-00129,CUST-0016,3945.2,USD,ach_simulation,Northstar Utilities Co.,settled,seed_system,2026-09-26T14:51:27.381581+00:00
+PAY-00130,CUST-0081,1238.67,USD,card_settlement,Harborview Health Group,reversed,seed_system,2026-08-23T14:51:27.381581+00:00
+PAY-00131,CUST-0056,6206.68,USD,card_settlement,BluePeak Telecom,pending,seed_system,2026-07-14T09:51:27.381581+00:00
+PAY-00132,CUST-0060,3380.4,USD,ach_simulation,BluePeak Telecom,reversed,seed_system,2026-10-22T10:51:27.381581+00:00
+PAY-00133,CUST-0089,7274.76,USD,wire_simulation,BluePeak Telecom,settled,seed_system,2026-10-12T10:51:27.381581+00:00
+PAY-00134,CUST-0025,4504.96,USD,bill_pay,Harborview Health Group,settled,seed_system,2026-08-01T12:51:27.381581+00:00
+PAY-00135,CUST-0003,1435.71,USD,card_settlement,Redwood Office Supply,pending,seed_system,2026-06-01T19:51:27.381581+00:00
+PAY-00136,CUST-0051,5121.98,USD,bill_pay,Meridian Cloud Services,settled,seed_system,2026-09-30T09:51:27.381581+00:00
+PAY-00137,CUST-0063,2530.39,USD,wire_simulation,Summit Logistics LLC,settled,seed_system,2026-11-17T11:51:27.381581+00:00
+PAY-00138,CUST-0026,7390.23,USD,bill_pay,Northstar Utilities Co.,settled,seed_system,2026-05-29T12:51:27.381581+00:00
+PAY-00139,CUST-0056,1666.44,USD,wire_simulation,Northstar Utilities Co.,pending,seed_system,2026-11-06T17:51:27.381581+00:00
+PAY-00140,CUST-0016,1457.69,USD,bill_pay,Meridian Cloud Services,settled,seed_system,2026-06-17T02:51:27.381581+00:00
+PAY-00141,CUST-0010,3565.34,USD,bill_pay,Northstar Utilities Co.,reversed,seed_system,2026-07-05T17:51:27.381581+00:00
+PAY-00142,CUST-0053,8336.75,USD,ach_simulation,Northstar Utilities Co.,settled,seed_system,2026-09-22T07:51:27.381581+00:00
+PAY-00143,CUST-0014,3304.07,USD,ach_simulation,Meridian Cloud Services,settled,seed_system,2026-10-19T08:51:27.381581+00:00
+PAY-00144,CUST-0045,39.85,USD,ach_simulation,Summit Logistics LLC,settled,seed_system,2026-11-25T02:51:27.381581+00:00
+PAY-00145,CUST-0092,1023.57,USD,bill_pay,Redwood Office Supply,settled,seed_system,2026-06-24T17:51:27.381581+00:00
+PAY-00146,CUST-0033,6984.07,USD,card_settlement,Summit Logistics LLC,settled,seed_system,2026-07-03T13:51:27.381581+00:00
+PAY-00147,CUST-0068,1154.34,USD,card_settlement,Redwood Office Supply,pending,seed_system,2026-06-16T11:51:27.381581+00:00
+PAY-00148,CUST-0030,3202.68,USD,card_settlement,BluePeak Telecom,settled,seed_system,2026-10-23T08:51:27.381581+00:00
+PAY-00149,CUST-0023,8004.89,USD,wire_simulation,Meridian Cloud Services,pending,seed_system,2026-07-11T23:51:27.381581+00:00
+PAY-00150,CUST-0063,3378.21,USD,bill_pay,BluePeak Telecom,settled,seed_system,2026-08-25T04:51:27.381581+00:00
+PAY-00151,CUST-0022,2450.48,USD,wire_simulation,Redwood Office Supply,settled,seed_system,2026-09-12T16:51:27.381581+00:00
+PAY-00152,CUST-0020,2194.26,USD,wire_simulation,Harborview Health Group,settled,seed_system,2026-11-06T17:51:27.381581+00:00
+PAY-00153,CUST-0091,1352.34,USD,wire_simulation,Summit Logistics LLC,settled,seed_system,2026-06-16T23:51:27.381581+00:00
+PAY-00154,CUST-0052,3424.25,USD,bill_pay,BluePeak Telecom,pending,seed_system,2026-11-03T06:51:27.381581+00:00
+PAY-00155,CUST-0079,1953.55,USD,ach_simulation,BluePeak Telecom,settled,seed_system,2026-08-30T13:51:27.381581+00:00
+PAY-00156,CUST-0037,4894.02,USD,bill_pay,Harborview Health Group,settled,seed_system,2026-07-02T00:51:27.381581+00:00
+PAY-00157,CUST-0007,2887.56,USD,bill_pay,BluePeak Telecom,settled,seed_system,2026-09-28T07:51:27.381581+00:00
+PAY-00158,CUST-0066,3971.04,USD,card_settlement,Harborview Health Group,reversed,seed_system,2026-07-24T23:51:27.381581+00:00
+PAY-00159,CUST-0014,111.07,USD,wire_simulation,Summit Logistics LLC,settled,seed_system,2026-09-13T01:51:27.381581+00:00
+PAY-00160,CUST-0077,2611.18,USD,ach_simulation,Meridian Cloud Services,pending,seed_system,2026-10-11T13:51:27.381581+00:00
+PAY-00161,CUST-0041,3560.15,USD,card_settlement,Meridian Cloud Services,pending,seed_system,2026-08-17T16:51:27.381581+00:00
+PAY-00162,CUST-0001,4071.05,USD,wire_simulation,Redwood Office Supply,reversed,seed_system,2026-08-20T02:51:27.381581+00:00
+PAY-00163,CUST-0011,3491.65,USD,bill_pay,Redwood Office Supply,settled,seed_system,2026-07-20T20:51:27.381581+00:00
+PAY-00164,CUST-0068,1507.64,USD,card_settlement,Redwood Office Supply,pending,seed_system,2026-10-13T08:51:27.381581+00:00
+PAY-00165,CUST-0005,4946.61,USD,wire_simulation,Harborview Health Group,reversed,seed_system,2026-09-01T06:51:27.381581+00:00
+PAY-00166,CUST-0093,7753.03,USD,wire_simulation,Northstar Utilities Co.,settled,seed_system,2026-11-24T13:51:27.381581+00:00
+PAY-00167,CUST-0100,4844.99,USD,wire_simulation,Harborview Health Group,settled,seed_system,2026-11-18T08:51:27.381581+00:00
+PAY-00168,CUST-0097,4342.42,USD,card_settlement,Meridian Cloud Services,settled,seed_system,2026-07-22T13:51:27.381581+00:00
+PAY-00169,CUST-0012,5351.22,USD,wire_simulation,Redwood Office Supply,settled,seed_system,2026-06-19T21:51:27.381581+00:00
+PAY-00170,CUST-0034,2673.33,USD,wire_simulation,Redwood Office Supply,settled,seed_system,2026-11-11T15:51:27.381581+00:00
+PAY-00171,CUST-0049,6248.1,USD,card_settlement,Summit Logistics LLC,settled,seed_system,2026-10-01T11:51:27.381581+00:00
+PAY-00172,CUST-0060,6603.47,USD,bill_pay,Harborview Health Group,pending,seed_system,2026-09-17T07:51:27.381581+00:00
+PAY-00173,CUST-0022,5347.71,USD,ach_simulation,Harborview Health Group,pending,seed_system,2026-08-04T23:51:27.381581+00:00
+PAY-00174,CUST-0077,1366.46,USD,bill_pay,Northstar Utilities Co.,settled,seed_system,2026-10-01T04:51:27.381581+00:00
+PAY-00175,CUST-0039,3771.57,USD,wire_simulation,Harborview Health Group,settled,seed_system,2026-06-14T02:51:27.381581+00:00
+PAY-00176,CUST-0023,559.85,USD,ach_simulation,Meridian Cloud Services,settled,seed_system,2026-10-13T11:51:27.381581+00:00
+PAY-00177,CUST-0017,6205.95,USD,wire_simulation,Redwood Office Supply,pending,seed_system,2026-06-27T08:51:27.381581+00:00
+PAY-00178,CUST-0022,3970.11,USD,ach_simulation,Meridian Cloud Services,reversed,seed_system,2026-10-08T10:51:27.381581+00:00
+PAY-00179,CUST-0023,7467.32,USD,bill_pay,BluePeak Telecom,pending,seed_system,2026-11-02T02:51:27.381581+00:00
+PAY-00180,CUST-0086,258.02,USD,card_settlement,BluePeak Telecom,reversed,seed_system,2026-08-22T09:51:27.381581+00:00
+PAY-00181,CUST-0079,1559.22,USD,wire_simulation,Summit Logistics LLC,settled,seed_system,2026-08-31T01:51:27.381581+00:00
+PAY-00182,CUST-0042,4227.48,USD,card_settlement,Harborview Health Group,settled,seed_system,2026-07-23T15:51:27.381581+00:00
+PAY-00183,CUST-0052,1865.44,USD,bill_pay,Meridian Cloud Services,pending,seed_system,2026-11-16T15:51:27.381581+00:00
+PAY-00184,CUST-0055,7603.75,USD,bill_pay,Summit Logistics LLC,settled,seed_system,2026-11-07T11:51:27.381581+00:00
+PAY-00185,CUST-0038,3201.46,USD,bill_pay,Harborview Health Group,settled,seed_system,2026-07-02T00:51:27.381581+00:00
+PAY-00186,CUST-0047,7134.39,USD,bill_pay,Summit Logistics LLC,settled,seed_system,2026-11-17T23:51:27.381581+00:00
+PAY-00187,CUST-0081,2299.86,USD,bill_pay,Northstar Utilities Co.,settled,seed_system,2026-07-09T10:51:27.381581+00:00
+PAY-00188,CUST-0001,969.9,USD,card_settlement,Northstar Utilities Co.,settled,seed_system,2026-08-08T12:51:27.381581+00:00
+PAY-00189,CUST-0034,6512.45,USD,ach_simulation,Redwood Office Supply,settled,seed_system,2026-07-29T21:51:27.381581+00:00
+PAY-00190,CUST-0094,7682.19,USD,bill_pay,BluePeak Telecom,reversed,seed_system,2026-08-10T11:51:27.381581+00:00
+PAY-00191,CUST-0002,621.47,USD,ach_simulation,Redwood Office Supply,settled,seed_system,2026-09-13T05:51:27.381581+00:00
+PAY-00192,CUST-0040,3235.72,USD,bill_pay,Northstar Utilities Co.,settled,seed_system,2026-07-24T02:51:27.381581+00:00
+PAY-00193,CUST-0096,5696.86,USD,card_settlement,Northstar Utilities Co.,settled,seed_system,2026-06-07T08:51:27.381581+00:00
+PAY-00194,CUST-0045,2488.97,USD,ach_simulation,BluePeak Telecom,reversed,seed_system,2026-10-13T17:51:27.381581+00:00
+PAY-00195,CUST-0009,4686.99,USD,ach_simulation,Summit Logistics LLC,reversed,seed_system,2026-06-24T03:51:27.381581+00:00
+PAY-00196,CUST-0032,7492.56,USD,bill_pay,Meridian Cloud Services,settled,seed_system,2026-07-23T17:51:27.381581+00:00
+PAY-00197,CUST-0030,1851.31,USD,wire_simulation,BluePeak Telecom,reversed,seed_system,2026-08-03T19:51:27.381581+00:00
+PAY-00198,CUST-0041,7264.0,USD,ach_simulation,Harborview Health Group,reversed,seed_system,2026-09-03T04:51:27.381581+00:00
+PAY-00199,CUST-0019,2301.76,USD,bill_pay,Summit Logistics LLC,reversed,seed_system,2026-11-23T03:51:27.381581+00:00
+PAY-00200,CUST-0075,2288.55,USD,ach_simulation,BluePeak Telecom,pending,seed_system,2026-08-23T02:51:27.381581+00:00

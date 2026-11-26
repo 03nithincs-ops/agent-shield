@@ -1,0 +1,6 @@
+permission_id,agent_id,resource,action,effect,max_amount,requires_approval_above,created_at,updated_at
+perm-f217daaa77,agent-support-01,customers,read,ALLOW,,,2026-11-25T13:51:27.413415+00:00,2026-11-25T13:51:27.413415+00:00
+perm-de34224bb8,agent-payment-01,payments,read,ALLOW,,,2026-11-25T13:51:27.451341+00:00,2026-11-25T13:51:27.451341+00:00
+perm-bf9c1c9668,agent-payment-01,payments,execute,ALLOW,100000.0,5000.0,2026-11-25T13:51:27.459798+00:00,2026-11-25T13:51:27.459798+00:00
+perm-e0ddaeacb5,agent-loan-01,loans,read,ALLOW,,,2026-11-25T13:51:27.496087+00:00,2026-11-25T13:51:27.496087+00:00
+perm-7dc746d11c,agent-loan-01,loans,update,ALLOW,,,2026-11-25T13:51:27.506042+00:00,2026-11-25T13:51:27.506042+00:00
