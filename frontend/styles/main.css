@@ -1,0 +1,121 @@
+/* AGENT SHIELD - Main Stylesheet */
+
+/* Global Theme */
+.stApp {
+    background-color: #0a0e1a;
+    color: #e2e8f0;
+}
+
+/* Sidebar */
+[data-testid="stSidebar"] {
+    background-color: #0d1b2e;
+    border-right: 1px solid #1e3a5f;
+}
+
+[data-testid="stSidebar"] .stMarkdown {
+    color: #e2e8f0;
+}
+
+/* Metric Cards */
+.metric-card {
+    background: linear-gradient(135deg, #111827 0%, #1a2535 100%);
+    border: 1px solid #1e3a5f;
+    border-radius: 12px;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+    transition: transform 0.2s;
+}
+
+.metric-card:hover {
+    transform: translateY(-2px);
+    border-color: #00b4d8;
+}
+
+.metric-value {
+    font-size: 2.5rem;
+    font-weight: 700;
+    line-height: 1.1;
+}
+
+.metric-label {
+    font-size: 0.85rem;
+    color: #94a3b8;
+    margin-top: 4px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+/* Alert Banner */
+.alert-banner {
+    background: linear-gradient(135deg, #1f1035 0%, #2d1b4e 100%);
+    border: 1px solid #ff4b6e;
+    border-radius: 8px;
+    padding: 12px 16px;
+    margin-bottom: 8px;
+}
+
+/* Section Headers */
+.section-header {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #00b4d8;
+    border-bottom: 1px solid #1e3a5f;
+    padding-bottom: 8px;
+    margin-bottom: 16px;
+}
+
+/* Result Cards */
+.result-allow {
+    background: linear-gradient(135deg, #002e1f 0%, #003d2a 100%);
+    border: 2px solid #00d4aa;
+    border-radius: 12px;
+    padding: 20px;
+}
+
+.result-deny {
+    background: linear-gradient(135deg, #2d0a14 0%, #3d0d1a 100%);
+    border: 2px solid #ff4b6e;
+    border-radius: 12px;
+    padding: 20px;
+}
+
+/* Buttons */
+.stButton > button {
+    background: linear-gradient(135deg, #1e3a5f 0%, #00b4d8 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-weight: 600;
+    transition: all 0.2s;
+}
+
+.stButton > button:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 15px rgba(0, 180, 216, 0.4);
+}
+
+/* Page Title & Subtitle */
+.page-title {
+    font-size: 2rem;
+    font-weight: 700;
+    background: linear-gradient(135deg, #00b4d8 0%, #00d4aa 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 4px;
+}
+
+.page-subtitle {
+    color: #64748b;
+    font-size: 0.95rem;
+    margin-bottom: 24px;
+}
+
+/* Sidebar Logo */
+.sidebar-logo {
+    text-align: center;
+    padding: 10px 0 20px 0;
+    border-bottom: 1px solid #1e3a5f;
+    margin-bottom: 20px;
+}
