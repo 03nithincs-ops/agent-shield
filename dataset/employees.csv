@@ -1,0 +1,31 @@
+employee_id,full_name,department,job_title,email,hire_date,status
+EMP-001,Priya Bennett,Finance,Financial Analyst,priya.bennett.1@corp-synth.example,2023-08-25,active
+EMP-002,Mateo Miller,Risk & Compliance,Compliance Officer,mateo.miller.2@corp-synth.example,2022-05-16,active
+EMP-003,Elena Hayes,Customer Support,Support Specialist,elena.hayes.3@corp-synth.example,2022-05-04,active
+EMP-004,Aarav Nair,Operations,Operations Lead,aarav.nair.4@corp-synth.example,2025-01-17,active
+EMP-005,Priya Reed,Security,Security Engineer,priya.reed.5@corp-synth.example,2026-02-23,active
+EMP-006,Mateo Kim,Engineering,Software Engineer,mateo.kim.6@corp-synth.example,2022-08-14,active
+EMP-007,Elena Price,Finance,Financial Analyst,elena.price.7@corp-synth.example,2022-12-16,active
+EMP-008,Aarav Singh,Risk & Compliance,Compliance Officer,aarav.singh.8@corp-synth.example,2025-05-11,active
+EMP-009,Priya Ward,Customer Support,Support Specialist,priya.ward.9@corp-synth.example,2026-06-11,active
+EMP-010,Mateo Alvarez,Operations,Operations Lead,mateo.alvarez.10@corp-synth.example,2025-09-09,active
+EMP-011,Elena Chen,Security,Security Engineer,elena.chen.11@corp-synth.example,2022-12-15,active
+EMP-012,Aarav Sharma,Engineering,Software Engineer,aarav.sharma.12@corp-synth.example,2022-12-12,active
+EMP-013,Priya Garcia,Finance,Financial Analyst,priya.garcia.13@corp-synth.example,2025-03-11,active
+EMP-014,Mateo Morales,Risk & Compliance,Compliance Officer,mateo.morales.14@corp-synth.example,2026-02-11,active
+EMP-015,Elena Brooks,Customer Support,Support Specialist,elena.brooks.15@corp-synth.example,2022-09-08,active
+EMP-016,Aarav Kulkarni,Operations,Operations Lead,aarav.kulkarni.16@corp-synth.example,2023-12-29,active
+EMP-017,Priya Rivera,Security,Security Engineer,priya.rivera.17@corp-synth.example,2025-06-25,active
+EMP-018,Mateo Nguyen,Engineering,Software Engineer,mateo.nguyen.18@corp-synth.example,2023-08-30,active
+EMP-019,Elena Foster,Finance,Financial Analyst,elena.foster.19@corp-synth.example,2026-03-02,active
+EMP-020,Aarav Patel,Risk & Compliance,Compliance Officer,aarav.patel.20@corp-synth.example,2022-06-02,active
+EMP-021,Priya Bennett,Customer Support,Support Specialist,priya.bennett.21@corp-synth.example,2026-02-25,active
+EMP-022,Mateo Miller,Operations,Operations Lead,mateo.miller.22@corp-synth.example,2025-04-12,active
+EMP-023,Elena Hayes,Security,Security Engineer,elena.hayes.23@corp-synth.example,2026-04-26,active
+EMP-024,Aarav Nair,Engineering,Software Engineer,aarav.nair.24@corp-synth.example,2023-02-16,active
+EMP-025,Priya Reed,Finance,Financial Analyst,priya.reed.25@corp-synth.example,2025-04-18,active
+EMP-026,Mateo Kim,Risk & Compliance,Compliance Officer,mateo.kim.26@corp-synth.example,2025-07-08,active
+EMP-027,Elena Price,Customer Support,Support Specialist,elena.price.27@corp-synth.example,2025-01-10,active
+EMP-028,Aarav Singh,Operations,Operations Lead,aarav.singh.28@corp-synth.example,2023-09-16,active
+EMP-029,Priya Ward,Security,Security Engineer,priya.ward.29@corp-synth.example,2022-04-18,active
+EMP-030,Mateo Alvarez,Engineering,Software Engineer,mateo.alvarez.30@corp-synth.example,2023-08-05,active

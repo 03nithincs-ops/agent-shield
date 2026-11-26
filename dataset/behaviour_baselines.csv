@@ -1,0 +1,4 @@
+agent_id,normal_resources,normal_hours_start,normal_hours_end,typical_req_per_window_max,typical_unique_records_max,baseline_sample_count,trusted_source,created_at
+agent-support-01,"[""customers""]",8,20,4,8,250,synthetic_normal_baseline_v1,2026-11-25T13:51:27.422796+00:00
+agent-payment-01,"[""payments""]",8,20,4,8,250,synthetic_normal_baseline_v1,2026-11-25T13:51:27.468878+00:00
+agent-loan-01,"[""loans""]",8,20,4,8,250,synthetic_normal_baseline_v1,2026-11-25T13:51:27.516751+00:00

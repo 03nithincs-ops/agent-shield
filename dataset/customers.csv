@@ -1,0 +1,101 @@
+customer_id,full_name,email,phone,account_tier,credit_score,balance,city,status,created_at
+CUST-0001,Sophia Rivera,sophia.rivera.1@synthetic-fin.example,+1-555-101-1037,Standard,743,47962.86,Raleigh,active,2025-01-02T13:51:27.381581+00:00
+CUST-0002,Ethan Morales,ethan.morales.2@synthetic-fin.example,+1-555-102-1074,Standard,694,85054.01,Minneapolis,active,2025-04-05T13:51:27.381581+00:00
+CUST-0003,Ananya Chen,ananya.chen.3@synthetic-fin.example,+1-555-103-1111,Platinum,831,71459.5,Minneapolis,active,2025-08-01T13:51:27.381581+00:00
+CUST-0004,Oliver Singh,oliver.singh.4@synthetic-fin.example,+1-555-104-1148,Silver,581,58523.01,Seattle,active,2026-01-05T13:51:27.381581+00:00
+CUST-0005,Elena Reed,elena.reed.5@synthetic-fin.example,+1-555-105-1185,Standard,810,1536.27,Portland,active,2024-11-30T13:51:27.381581+00:00
+CUST-0006,Caleb Miller,caleb.miller.6@synthetic-fin.example,+1-555-106-1222,Gold,687,38006.91,Atlanta,active,2025-10-26T13:51:27.381581+00:00
+CUST-0007,Maya Foster,maya.foster.7@synthetic-fin.example,+1-555-107-1259,Platinum,842,60746.19,Atlanta,active,2026-07-27T13:51:27.381581+00:00
+CUST-0008,Noah Kulkarni,noah.kulkarni.8@synthetic-fin.example,+1-555-108-1296,Gold,727,43701.69,Minneapolis,active,2025-12-14T13:51:27.381581+00:00
+CUST-0009,Zara Garcia,zara.garcia.9@synthetic-fin.example,+1-555-109-1333,Standard,768,34822.92,San Diego,active,2026-07-26T13:51:27.381581+00:00
+CUST-0010,Mateo Alvarez,mateo.alvarez.10@synthetic-fin.example,+1-555-110-1370,Platinum,835,82446.15,San Diego,active,2025-05-26T13:51:27.381581+00:00
+CUST-0011,Nadia Price,nadia.price.11@synthetic-fin.example,+1-555-111-1407,Platinum,783,87129.15,Denver,active,2024-06-14T13:51:27.381581+00:00
+CUST-0012,Rohan Nair,rohan.nair.12@synthetic-fin.example,+1-555-112-1444,Platinum,825,48949.37,Austin,active,2025-03-16T13:51:27.381581+00:00
+CUST-0013,Amara Bennett,amara.bennett.13@synthetic-fin.example,+1-555-113-1481,Silver,646,77804.4,Raleigh,active,2024-12-09T13:51:27.381581+00:00
+CUST-0014,Liam Nguyen,liam.nguyen.14@synthetic-fin.example,+1-555-114-1518,Standard,799,44892.31,Portland,active,2026-03-06T13:51:27.381581+00:00
+CUST-0015,Priya Brooks,priya.brooks.15@synthetic-fin.example,+1-555-115-1555,Standard,813,64205.36,Raleigh,active,2026-02-11T13:51:27.381581+00:00
+CUST-0016,Lucas Sharma,lucas.sharma.16@synthetic-fin.example,+1-555-116-1592,Platinum,737,52277.44,Raleigh,active,2024-11-10T13:51:27.381581+00:00
+CUST-0017,Chloe Ward,chloe.ward.17@synthetic-fin.example,+1-555-117-1629,Platinum,785,41396.47,Denver,active,2024-06-27T13:51:27.381581+00:00
+CUST-0018,Daniel Kim,daniel.kim.18@synthetic-fin.example,+1-555-118-1666,Gold,584,3580.48,Minneapolis,active,2025-07-14T13:51:27.381581+00:00
+CUST-0019,Hannah Hayes,hannah.hayes.19@synthetic-fin.example,+1-555-119-1703,Platinum,764,87578.74,Denver,active,2024-11-16T13:51:27.381581+00:00
+CUST-0020,Aarav Patel,aarav.patel.20@synthetic-fin.example,+1-555-120-1740,Platinum,818,48790.27,Portland,active,2024-07-21T13:51:27.381581+00:00
+CUST-0021,Sophia Rivera,sophia.rivera.21@synthetic-fin.example,+1-555-121-1777,Platinum,597,79059.15,Atlanta,active,2025-07-15T13:51:27.381581+00:00
+CUST-0022,Ethan Morales,ethan.morales.22@synthetic-fin.example,+1-555-122-1814,Standard,804,65626.45,Raleigh,active,2026-02-03T13:51:27.381581+00:00
+CUST-0023,Ananya Chen,ananya.chen.23@synthetic-fin.example,+1-555-123-1851,Platinum,673,91905.17,Portland,active,2026-08-22T13:51:27.381581+00:00
+CUST-0024,Oliver Singh,oliver.singh.24@synthetic-fin.example,+1-555-124-1888,Gold,835,35445.68,Boston,active,2024-09-21T13:51:27.381581+00:00
+CUST-0025,Elena Reed,elena.reed.25@synthetic-fin.example,+1-555-125-1925,Platinum,654,42940.28,Austin,active,2026-07-24T13:51:27.381581+00:00
+CUST-0026,Caleb Miller,caleb.miller.26@synthetic-fin.example,+1-555-126-1962,Standard,811,55349.51,Seattle,active,2025-02-09T13:51:27.381581+00:00
+CUST-0027,Maya Foster,maya.foster.27@synthetic-fin.example,+1-555-127-1999,Silver,706,11873.43,Austin,active,2024-09-17T13:51:27.381581+00:00
+CUST-0028,Noah Kulkarni,noah.kulkarni.28@synthetic-fin.example,+1-555-128-2036,Gold,762,15082.64,Atlanta,active,2024-12-15T13:51:27.381581+00:00
+CUST-0029,Zara Garcia,zara.garcia.29@synthetic-fin.example,+1-555-129-2073,Platinum,649,52055.73,Portland,active,2025-03-03T13:51:27.381581+00:00
+CUST-0030,Mateo Alvarez,mateo.alvarez.30@synthetic-fin.example,+1-555-130-2110,Silver,838,27933.81,San Diego,active,2024-12-11T13:51:27.381581+00:00
+CUST-0031,Nadia Price,nadia.price.31@synthetic-fin.example,+1-555-131-2147,Silver,649,74524.06,Minneapolis,active,2025-12-17T13:51:27.381581+00:00
+CUST-0032,Rohan Nair,rohan.nair.32@synthetic-fin.example,+1-555-132-2184,Platinum,779,76845.93,Raleigh,active,2024-07-22T13:51:27.381581+00:00
+CUST-0033,Amara Bennett,amara.bennett.33@synthetic-fin.example,+1-555-133-2221,Silver,772,1786.17,Seattle,active,2025-09-23T13:51:27.381581+00:00
+CUST-0034,Liam Nguyen,liam.nguyen.34@synthetic-fin.example,+1-555-134-2258,Standard,606,79285.77,Atlanta,active,2024-08-29T13:51:27.381581+00:00
+CUST-0035,Priya Brooks,priya.brooks.35@synthetic-fin.example,+1-555-135-2295,Standard,593,48707.17,Atlanta,active,2024-11-26T13:51:27.381581+00:00
+CUST-0036,Lucas Sharma,lucas.sharma.36@synthetic-fin.example,+1-555-136-2332,Gold,810,31277.34,Seattle,active,2025-06-04T13:51:27.381581+00:00
+CUST-0037,Chloe Ward,chloe.ward.37@synthetic-fin.example,+1-555-137-2369,Platinum,667,15000.35,Raleigh,active,2026-03-29T13:51:27.381581+00:00
+CUST-0038,Daniel Kim,daniel.kim.38@synthetic-fin.example,+1-555-138-2406,Platinum,752,43831.17,Boston,active,2024-12-01T13:51:27.381581+00:00
+CUST-0039,Hannah Hayes,hannah.hayes.39@synthetic-fin.example,+1-555-139-2443,Standard,784,3679.14,Chicago,active,2026-09-10T13:51:27.381581+00:00
+CUST-0040,Aarav Patel,aarav.patel.40@synthetic-fin.example,+1-555-140-2480,Standard,811,82528.41,Boston,active,2025-06-18T13:51:27.381581+00:00
+CUST-0041,Sophia Rivera,sophia.rivera.41@synthetic-fin.example,+1-555-141-2517,Standard,646,61496.43,Boston,active,2024-08-13T13:51:27.381581+00:00
+CUST-0042,Ethan Morales,ethan.morales.42@synthetic-fin.example,+1-555-142-2554,Silver,662,62968.63,Chicago,active,2025-09-22T13:51:27.381581+00:00
+CUST-0043,Ananya Chen,ananya.chen.43@synthetic-fin.example,+1-555-143-2591,Gold,797,50846.18,Seattle,active,2025-09-29T13:51:27.381581+00:00
+CUST-0044,Oliver Singh,oliver.singh.44@synthetic-fin.example,+1-555-144-2628,Gold,675,32981.44,Denver,active,2025-07-08T13:51:27.381581+00:00
+CUST-0045,Elena Reed,elena.reed.45@synthetic-fin.example,+1-555-145-2665,Platinum,792,27649.22,Chicago,active,2025-11-27T13:51:27.381581+00:00
+CUST-0046,Caleb Miller,caleb.miller.46@synthetic-fin.example,+1-555-146-2702,Platinum,807,11805.99,Raleigh,active,2024-08-02T13:51:27.381581+00:00
+CUST-0047,Maya Foster,maya.foster.47@synthetic-fin.example,+1-555-147-2739,Gold,628,80616.1,Boston,active,2026-10-21T13:51:27.381581+00:00
+CUST-0048,Noah Kulkarni,noah.kulkarni.48@synthetic-fin.example,+1-555-148-2776,Standard,812,61498.97,San Diego,active,2025-04-16T13:51:27.381581+00:00
+CUST-0049,Zara Garcia,zara.garcia.49@synthetic-fin.example,+1-555-149-2813,Silver,593,33726.89,Chicago,active,2025-10-31T13:51:27.381581+00:00
+CUST-0050,Mateo Alvarez,mateo.alvarez.50@synthetic-fin.example,+1-555-150-2850,Silver,636,59145.17,Denver,active,2025-04-05T13:51:27.381581+00:00
+CUST-0051,Nadia Price,nadia.price.51@synthetic-fin.example,+1-555-151-2887,Silver,730,53665.71,Raleigh,active,2026-06-13T13:51:27.381581+00:00
+CUST-0052,Rohan Nair,rohan.nair.52@synthetic-fin.example,+1-555-152-2924,Standard,715,9567.53,San Diego,active,2026-05-04T13:51:27.381581+00:00
+CUST-0053,Amara Bennett,amara.bennett.53@synthetic-fin.example,+1-555-153-2961,Standard,610,72224.11,Chicago,active,2025-01-03T13:51:27.381581+00:00
+CUST-0054,Liam Nguyen,liam.nguyen.54@synthetic-fin.example,+1-555-154-2998,Standard,839,30096.24,Minneapolis,active,2024-06-21T13:51:27.381581+00:00
+CUST-0055,Priya Brooks,priya.brooks.55@synthetic-fin.example,+1-555-155-3035,Standard,729,88553.38,Chicago,active,2026-02-01T13:51:27.381581+00:00
+CUST-0056,Lucas Sharma,lucas.sharma.56@synthetic-fin.example,+1-555-156-3072,Gold,612,1761.46,Denver,active,2025-08-28T13:51:27.381581+00:00
+CUST-0057,Chloe Ward,chloe.ward.57@synthetic-fin.example,+1-555-157-3109,Standard,609,9569.34,Austin,active,2025-12-13T13:51:27.381581+00:00
+CUST-0058,Daniel Kim,daniel.kim.58@synthetic-fin.example,+1-555-158-3146,Standard,628,65294.9,Minneapolis,active,2025-11-02T13:51:27.381581+00:00
+CUST-0059,Hannah Hayes,hannah.hayes.59@synthetic-fin.example,+1-555-159-3183,Gold,813,57865.97,Minneapolis,active,2026-09-18T13:51:27.381581+00:00
+CUST-0060,Aarav Patel,aarav.patel.60@synthetic-fin.example,+1-555-160-3220,Platinum,741,57916.13,Minneapolis,active,2025-07-10T13:51:27.381581+00:00
+CUST-0061,Sophia Rivera,sophia.rivera.61@synthetic-fin.example,+1-555-161-3257,Platinum,641,65355.12,Raleigh,active,2024-11-28T13:51:27.381581+00:00
+CUST-0062,Ethan Morales,ethan.morales.62@synthetic-fin.example,+1-555-162-3294,Gold,779,28047.39,Atlanta,active,2026-08-28T13:51:27.381581+00:00
+CUST-0063,Ananya Chen,ananya.chen.63@synthetic-fin.example,+1-555-163-3331,Platinum,592,27059.29,Atlanta,active,2026-01-03T13:51:27.381581+00:00
+CUST-0064,Oliver Singh,oliver.singh.64@synthetic-fin.example,+1-555-164-3368,Standard,732,73054.32,Atlanta,active,2025-03-06T13:51:27.381581+00:00
+CUST-0065,Elena Reed,elena.reed.65@synthetic-fin.example,+1-555-165-3405,Standard,755,19118.74,Austin,active,2024-10-18T13:51:27.381581+00:00
+CUST-0066,Caleb Miller,caleb.miller.66@synthetic-fin.example,+1-555-166-3442,Standard,663,58973.64,Seattle,active,2026-09-18T13:51:27.381581+00:00
+CUST-0067,Maya Foster,maya.foster.67@synthetic-fin.example,+1-555-167-3479,Silver,761,56891.87,Denver,active,2026-09-27T13:51:27.381581+00:00
+CUST-0068,Noah Kulkarni,noah.kulkarni.68@synthetic-fin.example,+1-555-168-3516,Platinum,644,34107.1,San Diego,active,2025-10-05T13:51:27.381581+00:00
+CUST-0069,Zara Garcia,zara.garcia.69@synthetic-fin.example,+1-555-169-3553,Silver,795,63098.17,Chicago,active,2026-04-22T13:51:27.381581+00:00
+CUST-0070,Mateo Alvarez,mateo.alvarez.70@synthetic-fin.example,+1-555-170-3590,Standard,783,84518.76,Chicago,active,2026-03-07T13:51:27.381581+00:00
+CUST-0071,Nadia Price,nadia.price.71@synthetic-fin.example,+1-555-171-3627,Standard,588,26624.42,Portland,active,2025-08-25T13:51:27.381581+00:00
+CUST-0072,Rohan Nair,rohan.nair.72@synthetic-fin.example,+1-555-172-3664,Gold,741,13560.06,Minneapolis,active,2026-07-27T13:51:27.381581+00:00
+CUST-0073,Amara Bennett,amara.bennett.73@synthetic-fin.example,+1-555-173-3701,Silver,599,61927.66,Raleigh,active,2024-07-09T13:51:27.381581+00:00
+CUST-0074,Liam Nguyen,liam.nguyen.74@synthetic-fin.example,+1-555-174-3738,Gold,754,60300.77,Atlanta,active,2026-08-30T13:51:27.381581+00:00
+CUST-0075,Priya Brooks,priya.brooks.75@synthetic-fin.example,+1-555-175-3775,Standard,704,44940.04,Boston,active,2024-11-30T13:51:27.381581+00:00
+CUST-0076,Lucas Sharma,lucas.sharma.76@synthetic-fin.example,+1-555-176-3812,Silver,784,67322.34,Atlanta,active,2024-08-08T13:51:27.381581+00:00
+CUST-0077,Chloe Ward,chloe.ward.77@synthetic-fin.example,+1-555-177-3849,Silver,721,32945.7,Boston,active,2025-10-08T13:51:27.381581+00:00
+CUST-0078,Daniel Kim,daniel.kim.78@synthetic-fin.example,+1-555-178-3886,Gold,815,60679.43,Raleigh,active,2024-07-18T13:51:27.381581+00:00
+CUST-0079,Hannah Hayes,hannah.hayes.79@synthetic-fin.example,+1-555-179-3923,Platinum,739,18216.16,San Diego,active,2026-05-22T13:51:27.381581+00:00
+CUST-0080,Aarav Patel,aarav.patel.80@synthetic-fin.example,+1-555-180-3960,Platinum,582,90314.33,Raleigh,active,2024-11-06T13:51:27.381581+00:00
+CUST-0081,Sophia Rivera,sophia.rivera.81@synthetic-fin.example,+1-555-181-3997,Platinum,599,60878.45,Seattle,active,2025-12-24T13:51:27.381581+00:00
+CUST-0082,Ethan Morales,ethan.morales.82@synthetic-fin.example,+1-555-182-4034,Gold,715,13494.17,Seattle,active,2026-10-08T13:51:27.381581+00:00
+CUST-0083,Ananya Chen,ananya.chen.83@synthetic-fin.example,+1-555-183-4071,Silver,737,54592.1,San Diego,active,2025-10-02T13:51:27.381581+00:00
+CUST-0084,Oliver Singh,oliver.singh.84@synthetic-fin.example,+1-555-184-4108,Silver,840,10370.32,Chicago,active,2024-10-06T13:51:27.381581+00:00
+CUST-0085,Elena Reed,elena.reed.85@synthetic-fin.example,+1-555-185-4145,Platinum,750,52215.21,Denver,active,2026-09-14T13:51:27.381581+00:00
+CUST-0086,Caleb Miller,caleb.miller.86@synthetic-fin.example,+1-555-186-4182,Silver,663,85442.15,Denver,active,2025-04-20T13:51:27.381581+00:00
+CUST-0087,Maya Foster,maya.foster.87@synthetic-fin.example,+1-555-187-4219,Gold,762,13120.15,San Diego,active,2026-04-16T13:51:27.381581+00:00
+CUST-0088,Noah Kulkarni,noah.kulkarni.88@synthetic-fin.example,+1-555-188-4256,Standard,825,89253.0,Atlanta,active,2024-07-17T13:51:27.381581+00:00
+CUST-0089,Zara Garcia,zara.garcia.89@synthetic-fin.example,+1-555-189-4293,Silver,844,3240.43,Atlanta,active,2025-04-22T13:51:27.381581+00:00
+CUST-0090,Mateo Alvarez,mateo.alvarez.90@synthetic-fin.example,+1-555-190-4330,Silver,663,3136.93,Seattle,active,2025-05-17T13:51:27.381581+00:00
+CUST-0091,Nadia Price,nadia.price.91@synthetic-fin.example,+1-555-191-4367,Standard,771,6463.42,Denver,active,2026-03-19T13:51:27.381581+00:00
+CUST-0092,Rohan Nair,rohan.nair.92@synthetic-fin.example,+1-555-192-4404,Silver,707,12412.89,Atlanta,active,2025-06-17T13:51:27.381581+00:00
+CUST-0093,Amara Bennett,amara.bennett.93@synthetic-fin.example,+1-555-193-4441,Standard,617,36492.32,Minneapolis,active,2025-12-22T13:51:27.381581+00:00
+CUST-0094,Liam Nguyen,liam.nguyen.94@synthetic-fin.example,+1-555-194-4478,Standard,758,45302.72,Portland,active,2026-06-25T13:51:27.381581+00:00
+CUST-0095,Priya Brooks,priya.brooks.95@synthetic-fin.example,+1-555-195-4515,Silver,763,65078.14,Portland,active,2025-03-06T13:51:27.381581+00:00
+CUST-0096,Lucas Sharma,lucas.sharma.96@synthetic-fin.example,+1-555-196-4552,Gold,622,6977.25,Seattle,active,2024-07-21T13:51:27.381581+00:00
+CUST-0097,Chloe Ward,chloe.ward.97@synthetic-fin.example,+1-555-197-4589,Platinum,739,25534.49,Boston,active,2026-05-07T13:51:27.381581+00:00
+CUST-0098,Daniel Kim,daniel.kim.98@synthetic-fin.example,+1-555-198-4626,Gold,801,48318.03,Atlanta,active,2025-11-30T13:51:27.381581+00:00
+CUST-0099,Hannah Hayes,hannah.hayes.99@synthetic-fin.example,+1-555-199-4663,Platinum,786,30108.67,Boston,active,2024-07-23T13:51:27.381581+00:00
+CUST-0100,Aarav Patel,aarav.patel.100@synthetic-fin.example,+1-555-200-4700,Platinum,692,82275.38,Atlanta,active,2024-09-09T13:51:27.381581+00:00
